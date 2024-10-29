@@ -1,4 +1,4 @@
-# put_io_lab
+# put_io_lab 28.10
 Adam Biernacki 155934
 zmiana
 17:25 29.10.2024
